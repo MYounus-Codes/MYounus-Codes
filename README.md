@@ -1,57 +1,66 @@
-# Hi there, I’m Muhammad Younus 👋
+# 👋 Hello, I'm Muhammad Younus
 
-> A passionate Agentic AI Developer building secure, scalable web & AI-powered applications.
+> 🚀 Agentic AI Developer | Pythonist | Building Secure, Scalable AI-Powered Applications
 
-**Pronouns:** He/Him  
-**Fun fact:** When I’m not coding, I’m exploring Latest news trends or contributing to open-source.
+I specialize in crafting next-generation **Agentic AI systems** and intelligent web apps with a focus on **automation, scalability, and performance**.
 
----
-
-## 🌟 Expertise
-
-- **Languages & Frameworks:**  
-  OpenAI Agents SDK ·
-  Python · HTML · CSS · Scikit-Learn
-- **Libraries:**  
-  Streamlit · Chainlit · Pandas · Numpy · Matplotlib · Seaborn 
-- **Databases:**  
-  Vector DB
-- **Auth & AuthZ:**  
-  Firebase Auth · Clerk  
-- **AI & Agents:**  
-  Mastering Python 3 for Agentic AI Development
+- 🧠 **Pronouns:** He/Him  
+- 💡 **Fun Fact:** When I’m not coding, I’m absorbing tech trends or contributing to open-source communities.
 
 ---
 
-## 🚀 What I’m Doing Now
+## 🌟 Core Expertise
 
-- Architecting **Agentic AI systems** with Python, LangChain, Pinecone  
-- Building **scalable, custom solutions** and **web applications with AI integration**
+- **Programming & Frameworks**  
+  `Python` · `HTML` · `CSS` · `OpenAI Agents SDK` · `Scikit-Learn`
+
+- **AI Libraries & Tooling**  
+  `Streamlit` · `Chainlit` · `Pandas` · `NumPy` · `Matplotlib` · `Seaborn`
+
+- **Databases & Data Stores**  
+  `Vector DBs` · `Pinecone`
+
+- **Authentication Systems**  
+  `Firebase Auth` · `Clerk`
+
+- **Current Mastery Track**  
+  `Agentic AI Development with Python 3` · `LLM Integrations` · `Machine Learning` 
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Currently Building
+
+- ⚙ Architecting **Agentic AI Systems** using Python, OpenAI Agents SDK, LLMs and Pinecone  
+- 🧩 Creating intelligent, data-driven **web applications** with secure auth and AI features  
+- 📚 Exploring deeper into **Machine Learning**, **Deep Learning**, and **NLP**
+
+---
+
+## 🧠 Tech Stack
 
 | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&style=flat-square) 
 | ![OpenAI Agents SDK](https://img.shields.io/badge/OpenAI%20Agents%20SDK-000000?logo=openai&style=flat-square) 
-| ![ML](https://img.shields.io/badge/Machine%20Learning-009688?style=flat-square&logo=scikit-learn&logoColor=white) 
-| ![DL](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) 
-| ![Pinecone](https://img.shields.io/badge/Pinecone-754FFF?style=flat-square) |
+| ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-009688?style=flat-square&logo=scikit-learn&logoColor=white) 
+| ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) 
+| ![Pinecone](https://img.shields.io/badge/Pinecone-754FFF?style=flat-square) 
+| ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) 
+| ![Chainlit](https://img.shields.io/badge/Chainlit-000000?style=flat-square&logo=chainlink&logoColor=white) 
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
-![MYounus-Codes's GitHub stats](https://github-readme-stats.vercel.app/api?username=MYounus-Codes&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MYounus-Codes&layout=compact&theme=radical)
+![MYounus-Codes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MYounus-Codes&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MYounus-Codes&layout=compact&theme=radical)
 
 ---
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/myounus1122/)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/myounus1122/)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/younus1122)
 
-### Email : myounushere@gmail.com
+📬 **Email:** myounushere@gmail.com  
+🌐 **Portfolio:** [myounus-codes.vercel.app](https://myounus-codes.vercel.app)
 
-[🌐 Visit my Website: ](https://myounus-codes.vercel.app)
+---
