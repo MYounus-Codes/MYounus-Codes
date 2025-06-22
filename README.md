@@ -11,9 +11,9 @@
 
 - **Languages & Frameworks:**  
   OpenAI Agents SDK ·
-  Python · HTML · CSS
-- **UI Libraries:**  
-  Streamlit · Chainlit   
+  Python · HTML · CSS · Scikit-Learn
+- **Libraries:**  
+  Streamlit · Chainlit · Pandas · Numpy · Matplotlib · Seaborn 
 - **Databases:**  
   Vector DB
 - **Auth & AuthZ:**  
@@ -47,5 +47,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/myounus1122/)  
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/younus1122)
+
+### Email : myounushere@gmail.com
 
 [🌐 Visit my Website: ](https://myounus-codes.vercel.app)
