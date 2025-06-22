@@ -36,7 +36,6 @@
 | ![OpenAI Agents SDK](https://img.shields.io/badge/OpenAI%20Agents%20SDK-000000?logo=openai&style=flat-square) 
 | ![ML](https://img.shields.io/badge/Machine%20Learning-009688?style=flat-square&logo=scikit-learn&logoColor=white) 
 | ![DL](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) 
-| ![LangChain](https://img.shields.io/badge/LangChain-FF9900?style=flat-square) 
 | ![Pinecone](https://img.shields.io/badge/Pinecone-754FFF?style=flat-square) |
 
 ---
