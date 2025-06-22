@@ -1,26 +1,23 @@
 # Hi there, I’m Muhammad Younus 👋
 
-> A passionate Full-Stack Developer building secure, scalable web & AI-powered applications.
+> A passionate Agentic AI Developer building secure, scalable web & AI-powered applications.
 
 **Pronouns:** He/Him  
-**Fun fact:** When I’m not coding, I’m exploring web-design trends or contributing to open-source.
+**Fun fact:** When I’m not coding, I’m exploring Latest news trends or contributing to open-source.
 
 ---
 
 ## 🌟 Expertise
 
 - **Languages & Frameworks:**  
-  TypeScript · JavaScript · Next.js · React.js · Tailwind CSS  
+  OpenAI Agents SDK ·
+  Python · HTML · CSS
 - **UI Libraries:**  
-  ShadCN UI · Material UI · Radix UI  
-- **Headless CMS:**  
-  Sanity · Contentful · Strapi  
-- **Payments & Security:**  
-  Stripe (advanced, secure integrations)  
+  Streamlit · Chainlit   
 - **Databases:**  
-  MongoDB · PostgreSQL · Firebase Firestore · SQL & other RDBMS  
+  Vector DB
 - **Auth & AuthZ:**  
-  Auth.js · Firebase Auth · Clerk  
+  Firebase Auth · Clerk  
 - **AI & Agents:**  
   Mastering Python 3 for Agentic AI Development
 
@@ -35,11 +32,7 @@
 
 ## 🛠️ Tech Stack
 
-| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&style=flat-square) | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&style=flat-square) | ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&style=flat-square) | ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&style=flat-square) |
-|:---:|:---:|:---:|:---:|
-| ![ShadCN UI](https://img.shields.io/badge/ShadCN_UI-000000?style=flat-square) | ![MUI](https://img.shields.io/badge/MUI-007FFF?logo=mui&style=flat-square) | ![Radix UI](https://img.shields.io/badge/Radix_UI-FF4785?style=flat-square) | ![Stripe](https://img.shields.io/badge/Stripe-635BFF?logo=stripe&style=flat-square) |
-| ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&style=flat-square) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&style=flat-square) | ![Firestore](https://img.shields.io/badge/Firestore-F16224?logo=google-cloud&style=flat-square) | ![Clerk](https://img.shields.io/badge/Clerk-000000?style=flat-square) |
-| ![Auth.js](https://img.shields.io/badge/Auth.js-000000?style=flat-square) | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&style=flat-square) | ![LangChain](https://img.shields.io/badge/LangChain-FF9900?style=flat-square) | ![Pinecone](https://img.shields.io/badge/Pinecone-754FFF?style=flat-square) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&style=flat-square) | ![LangChain](https://img.shields.io/badge/LangChain-FF9900?style=flat-square) | ![Pinecone](https://img.shields.io/badge/Pinecone-754FFF?style=flat-square) |
 
 ---
 
@@ -52,6 +45,6 @@
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/myounus-codes)  
-[![StackOverflow](https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/22482042/muhammad-younus)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/myounus1122/)  
+[![Kaggle]([https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat-square&logo=stackoverflow&logoColor=white](https://www.kaggle.com/younus1122))]([https://stackoverflow.com/users/22482042/muhammad-younus](https://www.kaggle.com/younus1122))  
 [🌐 Visit my Website: ](https://myounus-codes.vercel.app)
