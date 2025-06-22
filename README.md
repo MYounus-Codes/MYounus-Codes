@@ -46,5 +46,5 @@
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/myounus1122/)  
-[![Kaggle]([https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat-square&logo=stackoverflow&logoColor=white](https://www.kaggle.com/younus1122))]([https://stackoverflow.com/users/22482042/muhammad-younus](https://www.kaggle.com/younus1122))  
+[![Kaggle]([https://img.shields.io/badge/-Kaggle-FE7A16?style=flat-square&logo=stackoverflow&logoColor=white](https://www.kaggle.com/younus1122))]([https://stackoverflow.com/users/22482042/muhammad-younus](https://www.kaggle.com/younus1122))  
 [🌐 Visit my Website: ](https://myounus-codes.vercel.app)
