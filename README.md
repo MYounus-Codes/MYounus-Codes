@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Muhammad Younus
 
-> 🚀 Agentic AI Developer | Pythonist | Building Secure, Scalable AI-Powered Applications
+> 🚀 Agentic AI Developer | Pythonist | Learning ML |  Building Secure, Scalable AI-Powered Applications
 
 I specialize in crafting next-generation **Agentic AI systems** and intelligent web apps with a focus on **automation, scalability, and performance**.
 
@@ -12,10 +12,10 @@ I specialize in crafting next-generation **Agentic AI systems** and intelligent 
 ## 🌟 Core Expertise
 
 - **Programming & Frameworks**  
-  `Python` · `HTML` · `CSS` · `OpenAI Agents SDK` · `Scikit-Learn`
+  `Python` · `OpenAI Agents SDK`
 
 - **AI Libraries & Tooling**  
-  `Streamlit` · `Chainlit` · `Pandas` · `NumPy` · `Matplotlib` · `Seaborn`
+  `Streamlit` · `Chainlit` · `Pandas` · `NumPy` · `Matplotlib` · `Seaborn` · `Scikit-Learn - TensorFlow ( Learning )`
 
 - **Databases & Data Stores**  
   `Vector DBs` · `Pinecone`
@@ -24,7 +24,7 @@ I specialize in crafting next-generation **Agentic AI systems** and intelligent 
   `Firebase Auth` · `Clerk`
 
 - **Current Mastery Track**  
-  `Agentic AI Development with Python 3` · `LLM Integrations` · `Machine Learning` 
+  `Agentic AI Development with Python 3` · `LLM Integrations` · `Machine Learning` · `Python` 
 
 ---
 
