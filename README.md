@@ -101,4 +101,10 @@ My current mission is to **push the boundaries of AI automation** using Python a
 ---
 
 ## ✨ **Quote for Today**
-> *"The best way to predict the future is to **create it**."* 
+> *"The best way to predict the future is to **create it**."*
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
