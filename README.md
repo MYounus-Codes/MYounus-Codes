@@ -1,6 +1,6 @@
 # Muhammad Younus
 
-Python Developer | Agentic AI Engineer | API Architect
+Python Developer | Agentic AI Engineer | GenAI Developer
 
 Building intelligent systems and scalable backend solutions with modern AI frameworks and Python.
 
