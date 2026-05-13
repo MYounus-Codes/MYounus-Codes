@@ -74,7 +74,7 @@ I actively contribute to the AI and Python ecosystem. Check out my repositories 
 
 I'm always interested in discussing AI systems, backend architecture, and potential collaborations.
 
-- **LinkedIn:** [My LinkedIN](https://www.linkedin.com/in/myounus1122/](https://www.linkedin.com/in/muhammad-younus-398200406/))
+- **LinkedIn:** [My LinkedIN]([https://www.linkedin.com/in/myounus1122/](https://www.linkedin.com/in/muhammad-younus-398200406/)](https://www.linkedin.com/in/muhammad-younus-398200406/))
 - **Email:** myounushere@gmail.com
 - **Portfolio:** [Visit My Website](https://younus.onhercules.app)
 
